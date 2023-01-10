@@ -75,6 +75,8 @@ public class Main {
 
             case "X":
                 return 10;
+            case "XI":
+                return 11;
 
             default:
 
